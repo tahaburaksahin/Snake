@@ -1,3 +1,7 @@
+
+![tS8+OK](https://github.com/tahaburaksahin/Snake/assets/99183230/43b31f3a-0b80-4cae-9dca-ac898a1e8add)
+![pGGGb8](https://github.com/tahaburaksahin/Snake/assets/99183230/b6ad5e3c-7f42-4edf-92ca-0cf65ed02ba4)
+
 # Snake Game
 
 This is a simple implementation of the classic Snake game in Java.
